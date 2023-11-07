@@ -1,0 +1,21 @@
+tiobe index karşılaştırması yapılabilir.
+Algol60 vs. Fortran kapışması geçmişte
+tarihlerini ve kıullanım alanarını işin içine sokabliriz.
+////
+EVALUATION CRITERIA
+readability writability reliabilty -
+simplity ve orthogonality
+evolutionları tarihte
+data typları.
+synatax design
+type checking
+exception handling
+aliasing
+cost on training programmers
+cost of compiling and executing program
+portabilty
+standardization
+definedness
+/////
+Language Design ­Trade-​­Offs örnekleri ile
+Language Design Categories
